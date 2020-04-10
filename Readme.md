@@ -1,6 +1,10 @@
 # AUDIO INPUT - VISUALIZER
 ## By Will Simpson
      
+     
+  Written in processing Java, see processing.org
+  
+  
   Thanks to code train and minim library for inspiration and getting me started
      
   Choose an audio input source and change the mixerInfo[] value in line 33
