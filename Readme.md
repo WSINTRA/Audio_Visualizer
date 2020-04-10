@@ -1,5 +1,5 @@
-     # AUDIO INPUT - VISUALIZER
-     ## By Will Simpson
+     #AUDIO INPUT - VISUALIZER
+     ##By Will Simpson
      
      Thanks to code train and minim library for inspiration and getting me started
      
